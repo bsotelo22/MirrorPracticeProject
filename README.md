@@ -2,4 +2,7 @@
 
 My first letters on the mirror project
 
-I modified this 2 times 
+Si puedo descargar esto en el sourceproject, copiarlo en repository, actualizarlo y mover la actualizacion al sourceProject
+
+
+CONSEGUIDO !
