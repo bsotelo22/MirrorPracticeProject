@@ -3,4 +3,4 @@
 My first letters on the mirror project
 
 
-Abrí esto desde el mirror !
+Abri esto desde el mirror ! (segunda vez)
